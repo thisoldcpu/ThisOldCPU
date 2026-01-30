@@ -1,16 +1,15 @@
-## Hi there 👋
+## ThisOldCPU
 
-<!--
-**thisoldcpu/ThisOldCPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ThisOldCPU is a long-running retro audio and visual engineering project
+focused on Delphi, DSP, Winamp plugins, hardware revival, and original music.
 
-Here are some ideas to get you started:
+- GitHub is the canonical hub for code and documentation
+- Music is released via established streaming platforms
+- thisoldcpu.com resolves here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected areas:
+- Audio & DSP
+- Retro hardware and emulation
+- Tools and preservation projects
+
+
